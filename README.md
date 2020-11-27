@@ -57,7 +57,5 @@ PUT api/books/{id}
 ```
 
 
-```
-
 ## App Info
 Golang rest api with mux  HTTP router
